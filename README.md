@@ -8,7 +8,8 @@
 
 
 
-
+<p align="left"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coeur85&theme=vision_friendly_dark " />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coeur85&theme=vision_friendly_dark" />
+</p>
 
